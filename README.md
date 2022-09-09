@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @pavelwatson
-- 👀 I’m interested in Back End Development, I'm already goot at Python, Javascript, HTML, CSS
-- 🌱 I’m currently learning Ruby
 - 📫 Reach me at watsonpavel@gmail.com
 
 <!---
